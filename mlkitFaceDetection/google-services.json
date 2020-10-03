@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1022043870298",
+    "firebase_url": "https://mlkitexample-5e378.firebaseio.com",
+    "project_id": "mlkitexample-5e378",
+    "storage_bucket": "mlkitexample-5e378.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022043870298:android:47a96c49cc4e623c2d7463",
+        "android_client_info": {
+          "package_name": "com.example.mlkitFaceDetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022043870298-65m1o5g48poljoh1qcd75bh9tvrufi6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZiXVnh5hUV0y1IJ3zShYt8Ug5ETr9NiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022043870298-65m1o5g48poljoh1qcd75bh9tvrufi6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
