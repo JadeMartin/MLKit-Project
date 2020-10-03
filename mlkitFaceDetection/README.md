@@ -1,6 +1,8 @@
 # mlkitFaceDetection
 
-A new Flutter project.
+A new Flutter project with ML Kit.
+
+Project allows for face detection, image labeling, barcode scanning, and text recognition all powered with ML Kit.
 
 ## Getting Started
 
